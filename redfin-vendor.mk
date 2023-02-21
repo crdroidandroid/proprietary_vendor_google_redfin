@@ -646,7 +646,6 @@ PRODUCT_PACKAGES += \
     EuiccGoogleOverlay \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
-    HbmSVManager \
     LLKAgent \
     MyVerizonServices \
     OBDM_Permissions \
